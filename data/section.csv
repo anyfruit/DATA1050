@@ -1,0 +1,15 @@
+course_id,sec_id,semester,year,building,room_no,time_slot_id
+Data1050,1,Fall,2023,Franklin,212,8
+Data1050,1,Fall,2022,CIT,404,3
+Data1030,1,Fall,2023,Franklin,212,6
+Data1030,1,Fall,2022,Franklin,212,6
+APMA1650,1,Spring,2023,Sayles,128,3
+CSCI1270,1,Fall,2023,CIT,312,6
+CSCI1270,2,Fall,2023,,,6
+Data1450,1,Spring,2024,,,
+Econ2180,1,Spring,2023,Skinner,140,7
+Psyc2134,1,Fall,2023,Angell,405,6
+Soc1872O,1,Spring,2023,Sayles,128,5
+Data2050,1,Fall,2023,,,
+Data2050,1,Summer,2023,,,
+Data2050,1,Spring,2023,,,

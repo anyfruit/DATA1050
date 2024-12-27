@@ -1,0 +1,8 @@
+course_id,prerq_id
+Data2050,Data1050
+Data2050,Data1030
+Data1030,Data1050
+Data1050,CSCI1270
+Econ9999,Econ2180
+Econ2180,Phil1635
+Soc1873D,Soc1872O

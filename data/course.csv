@@ -1,0 +1,17 @@
+course_id,title,dept_name,credits
+Data1050,Data Engineering,DSI,1
+Data1030,Hands-on data science,DSI,1
+APMA1650,Statistical Inference 1,AppMath,1
+CSCI1270,Database Management Systems,CompSci,1
+Data1450,Text Analysis,DSI,1
+Econ2180,Game Theory,Econ,1
+Econ9999,Mega Macro Economics,Econ,2
+Phil2410,Moral Psychology,Philosophy,0.5
+Phil1635,Advanced Deductive Logic,Philosophy,1
+Engl1631P,Shakespeare's Girls,English,1
+Engl1760M,The miracle of Cinema,English,0.5
+Psyc1450,Human sexuality,Psychology,1.5
+Psyc2134,Intro to Cognitive Science,Psychology,1
+Soc1872O,Critical Race Theory,Sociology,1
+Soc1873D,Inequality in Infant Health,Sociology,1
+Data2050,Practicum,DSI,1
